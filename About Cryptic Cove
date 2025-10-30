@@ -1,0 +1,10 @@
+CrypticCove is a cybersecurity education tool that visually demonstrates how password complexity affects entropy and brute-force crack times.
+It’s an ideal mini-project for students and cybersecurity enthusiasts learning about encryption, randomness, and password security.
+
+⚙️ Tech Stack
+
+Language: Python 3.x
+
+GUI: Tkinter (dark mode interface)
+
+Libraries: math, secrets, string, tkinter, ttk
