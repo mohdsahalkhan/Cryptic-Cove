@@ -16,18 +16,15 @@ Designed in a dark cyber-aesthetic interface.
 - 📋 Auto-copy to Clipboard
 - 🧑‍💻 Educational & Ethical Use Only
 
----
-
-## 🖼️ Screenshot
-![CrypticCove GUI](screenshots/preview.png)
-
----
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the Repository
-```bash
+1️⃣ Clone the Repository
 git clone https://github.com/<yourusername>/CrypticCove.git
 cd CrypticCove
+
+2️⃣ Install Requirements
 pip install -r requirements.txt
+
+3️⃣ Run the App
 python3 crypticcove_dark.py
