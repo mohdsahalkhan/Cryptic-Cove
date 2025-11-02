@@ -21,7 +21,7 @@ Designed in a dark cyber-aesthetic interface.
 
 ```bash
 1️⃣ Clone the Repository
-git clone https://github.com/<yourusername>/CrypticCove.git
+git clone https://github.com/mohdsahalkhan/CrypticCove.git
 cd CrypticCove
 
 2️⃣ Install Requirements
